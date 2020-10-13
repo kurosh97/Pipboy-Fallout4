@@ -23,7 +23,7 @@ To get started you need:
 2. Clone or download Zip:
   
 ```sh 
-  $ git clone git@github.com:kurosh97/Bootstrap.git
+  $ git clone git@github.com:kurosh97/Pipboy-Fallout4.git
 ```
 <br/>
 3. Check bootstraps documentation:
