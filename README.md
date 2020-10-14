@@ -1,4 +1,4 @@
-# Pipboy-Fallout4/ Bootstrap/ tether/ JS/ HTML/ CSS
+# Pipboy-Fallout4
 In here I will be working mainly on front-end. Just basic stuff and try to understand bootstrap better.
 # Web-Page / Bootstrap 
 
