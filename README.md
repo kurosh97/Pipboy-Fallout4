@@ -1,6 +1,6 @@
 # Pipboy-Fallout4
 In here I will be working mainly on front-end. Just basic stuff and try to understand bootstrap better.
-# Web-Page / Bootstrap 
+# Web-Page / Bootstrap / CSS / HTML
 
 ## Description
 Making a pipboy from Fallout 4 like webpage.  
